@@ -7,5 +7,7 @@ public class GitTree {
         System.out.println("Hello");
         System.out.println("world");
 
+        int i = 10;
+        System.out.println(i);
     }
 }
