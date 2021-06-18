@@ -9,5 +9,12 @@ public class GitTree {
 
         int i = 10;
         System.out.println(i);
+
+        int b = 20;
+        System.out.println(b);
+
+        System.out.println("Bye");
+
+
     }
 }
