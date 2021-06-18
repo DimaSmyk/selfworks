@@ -8,6 +8,8 @@ public class GitTree {
 
         int b = 20;
         System.out.println(b);
+        System.out.println("Bye");
+
 
     }
 }
